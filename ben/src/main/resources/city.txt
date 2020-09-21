@@ -1,0 +1,11 @@
+Boston, New York
+Philadelphia, Newark
+Newark, Boston
+Trenton, Albany
+Philadelphia, Buffalo
+Buffalo, DC
+DC, Raleigh
+Raleigh, Charlotte
+Charlotte, Miami
+Miami, Toronto
+Toronto, Altlanta
